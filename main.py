@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot_token = '6385392149:AAH2tONppORrG8GjFRFu5MpoREpx0TjmFEs'
+bot_token = '6297024267:AAEt6d_RKWI5uN2pAyF8X3uVythauphXzfY'
 bot = telebot.TeleBot(bot_token)
 exchange_rate = 14.7
 DELIVERY_COST = 1500
